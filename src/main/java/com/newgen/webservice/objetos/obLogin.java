@@ -17,6 +17,7 @@ public class obLogin {
 
     public String getUsuario() {
         return usuario;
+        // alterado web
     }
 
     public void setUsuario(String usuario) {
