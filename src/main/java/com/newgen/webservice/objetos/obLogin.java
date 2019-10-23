@@ -16,8 +16,8 @@ public class obLogin {
     private String cnpj;
 
     public String getUsuario() {
+        System.out.println("teste git");
         return usuario;
-        // alterado web
     }
 
     public void setUsuario(String usuario) {
